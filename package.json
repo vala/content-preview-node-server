@@ -1,0 +1,11 @@
+{
+  "name":"content-preview",
+  "version":"0.0.1",
+  "dependencies":{
+    "url":"",
+    "request":"",
+    "jsdom":"",
+    "fs":"",
+    "cssom":""
+  }
+}
